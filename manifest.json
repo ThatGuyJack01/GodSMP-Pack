@@ -4,16 +4,16 @@
   "mods": [
     {
       "id": "fabric-api",
-      "fileName": "fabric-api-0.128.2+1.21.5.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-api-0.128.2+1.21.5.jar",
-      "sha256": "a82fd00827206e911936ed1e0ceaec6eb55d061ca5d3c5d63c7f0031426d29ae",
+      "fileName": "fabric-api-0.116.7+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-api-0.116.7+1.21.1.jar",
+      "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "required": true
     },
     {
-      "id": "fabric-api",
-      "fileName": "voicechat-fabric-1.21.5-2.6.10.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/voicechat-fabric-1.21.5-2.6.10.jar",
-      "sha256": "e11b7fbd26d55ba2171dee6ef157f7870576b502f2b3ccf61f12ebf0df8231b6",
+      "id": "simple-voicechat",
+      "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/voicechat-fabric-1.21.1-2.6.10.jar",
+      "sha256": "12dade444565261606c3ba63785aff1aa84e20b807376f76b9aff9907e51567b",
       "required": true
     }
   ]
