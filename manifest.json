@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_23-38-03",
+  "packVersion": "2025-12-28_00-12-49",
   "mods": [
     {
       "id": "amendments",
@@ -42,13 +42,6 @@
       "fileName": "bookshelf-fabric-1.21.1-21.1.80.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bookshelf-fabric-1.21.1-21.1.80.jar",
       "sha256": "7525f64eb5584b149e499eadcbb8e584d462ce992e72d31cb535af7aaf0931f4",
-      "required": true
-    },
-    {
-      "id": "bootstrap",
-      "fileName": "bootstrap-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bootstrap-1.0.0.jar",
-      "sha256": "009e333bc41105b512655876c0c3c93fa4f52f04a02790097d00c3be89d7ff82",
       "required": true
     },
     {
