@@ -1,7 +1,91 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_20-42-47",
+  "packVersion": "2025-12-27_21-34-31",
   "mods": [
+    {
+      "id": "amendments",
+      "fileName": "amendments-1.21-2.0.13-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/amendments-1.21-2.0.13-fabric.jar",
+      "sha256": "1694ee41c2944cc6885b5f4fc7de55ff6b3594eccc74a8019bbd4aa8eb6ef6a0",
+      "required": true
+    },
+    {
+      "id": "athena",
+      "fileName": "athena-fabric-1.21-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/athena-fabric-1.21-4.0.2.jar",
+      "sha256": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb",
+      "required": true
+    },
+    {
+      "id": "BetterCompatibilityChecker",
+      "fileName": "BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
+      "sha256": "558613643f124ebe94efb3d5f2903f35738195208ac947abe1a149e3aab83570",
+      "required": true
+    },
+    {
+      "id": "bookshelf",
+      "fileName": "bookshelf-fabric-1.21.1-21.1.80.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bookshelf-fabric-1.21.1-21.1.80.jar",
+      "sha256": "7525f64eb5584b149e499eadcbb8e584d462ce992e72d31cb535af7aaf0931f4",
+      "required": true
+    },
+    {
+      "id": "bootstrap",
+      "fileName": "bootstrap-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bootstrap-1.0.0.jar",
+      "sha256": "009e333bc41105b512655876c0c3c93fa4f52f04a02790097d00c3be89d7ff82",
+      "required": true
+    },
+    {
+      "id": "carryon",
+      "fileName": "carryon-fabric-1.21.1-2.2.2.11.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/carryon-fabric-1.21.1-2.2.2.11.jar",
+      "sha256": "803d60e5938ad6ec67bdfdf09e6c718eae3265f63e0dbdd2dfdd919c30f5524d",
+      "required": true
+    },
+    {
+      "id": "chipped",
+      "fileName": "chipped-fabric-1.21.1-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chipped-fabric-1.21.1-4.0.2.jar",
+      "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+      "required": true
+    },
+    {
+      "id": "Controlling",
+      "fileName": "Controlling-fabric-1.21.1-19.0.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "sha256": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d",
+      "required": true
+    },
+    {
+      "id": "copperhopper",
+      "fileName": "copperhopper-0.10.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/copperhopper-0.10.0+1.21.1.jar",
+      "sha256": "b9d721b77e9fd0c538eb08c297637b89cc1471a2675b81def7ee5bcd3cb798cb",
+      "required": true
+    },
+    {
+      "id": "darkutils",
+      "fileName": "darkutils-fabric-1.21.1-21.1.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/darkutils-fabric-1.21.1-21.1.1.jar",
+      "sha256": "217453663e4382af4e3300c54fff2c4e9cc1f682e1783c6649e27885cf7b07c8",
+      "required": true
+    },
+    {
+      "id": "DistantHorizons",
+      "fileName": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+      "sha256": "288156d3c9032973b8571d258953181a7c152028e07a4ed7d065d5d6ae4e8bec",
+      "required": true
+    },
+    {
+      "id": "dummmmmmy",
+      "fileName": "dummmmmmy-1.21-2.0.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/dummmmmmy-1.21-2.0.11-fabric.jar",
+      "sha256": "b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c",
+      "required": true
+    },
     {
       "id": "fabric",
       "fileName": "fabric-api-0.116.7+1.21.1.jar",
@@ -10,10 +94,227 @@
       "required": true
     },
     {
+      "id": "fabric",
+      "fileName": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "sha256": "760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002",
+      "required": true
+    },
+    {
+      "id": "ForgeConfigAPIPort",
+      "fileName": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+      "required": true
+    },
+    {
+      "id": "friendsandfoes",
+      "fileName": "friendsandfoes-fabric-4.0.18+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/friendsandfoes-fabric-4.0.18+mc1.21.1.jar",
+      "sha256": "5cdcc7fc7ede8af3ebced82320f4cbff18e1ea7d93a472ae7b6be30bec4a232f",
+      "required": true
+    },
+    {
+      "id": "fzzy_config",
+      "fileName": "fzzy_config-0.7.4-fix1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fzzy_config-0.7.4-fix1+1.21.jar",
+      "sha256": "a0b97a14507f3b8852fad28584a8836949765d64fb6caeb6fbb4257d0d58d173",
+      "required": true
+    },
+    {
+      "id": "Hold My Items 1.21.1 v4.0",
+      "fileName": "Hold My Items 1.21.1 v4.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Hold My Items 1.21.1 v4.0.jar",
+      "sha256": "3a8aa9a460ba79af3e402ecf6b926a04fc1c13239fac5a1cb1b935e4b6b0db1e",
+      "required": true
+    },
+    {
+      "id": "immersive_paintings",
+      "fileName": "immersive_paintings-fabric-1.21.1-0.7.4.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/immersive_paintings-fabric-1.21.1-0.7.4.jar",
+      "sha256": "788ff8ae7a6727669a74da9b71f975d99f97d006ec34f09e6e6198c62e9f4ac2",
+      "required": true
+    },
+    {
+      "id": "improvedsigns",
+      "fileName": "improvedsigns-1.4.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/improvedsigns-1.4.2.jar",
+      "sha256": "168f4fb1241149087eeea1c1945d89aa84f119cd232092d808208d8e6098a284",
+      "required": true
+    },
+    {
+      "id": "iris",
+      "fileName": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/iris-fabric-1.8.8+mc1.21.1.jar",
+      "sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
+      "required": true
+    },
+    {
+      "id": "mcw",
+      "fileName": "mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
+      "sha256": "32408564efb67ed8b02023365d19a31e80c859dbfc0e977790eb12e3a6095cba",
+      "required": true
+    },
+    {
+      "id": "mcw",
+      "fileName": "mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
+      "sha256": "a6243c53256ad7d0813ba9e1003ca8ed5480f5354efcea0c0e8e5cbcb0fa2267",
+      "required": true
+    },
+    {
+      "id": "moonlight",
+      "fileName": "moonlight-1.21-2.29.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/moonlight-1.21-2.29.2-fabric.jar",
+      "sha256": "31af9feb8f8ce05effe1ae7b2804ede6aeb86d42d21e3ca925b2423926c9046b",
+      "required": true
+    },
+    {
+      "id": "Notes",
+      "fileName": "Notes-1.21.1-2.1.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Notes-1.21.1-2.1.1-fabric.jar",
+      "sha256": "b445745c06f90e74e3b3353ca1610e5099571c5772afb29f4c344ad3c6867965",
+      "required": true
+    },
+    {
+      "id": "nyctography",
+      "fileName": "nyctography-fabric-1.21.1-21.1.6.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/nyctography-fabric-1.21.1-21.1.6.jar",
+      "sha256": "98697abcefeb5671bdda0112dd14b3814c5076b2a06b7d34b865be3ecbba3c73",
+      "required": true
+    },
+    {
+      "id": "OverflowingBars",
+      "fileName": "OverflowingBars-v21.1.1-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/OverflowingBars-v21.1.1-1.21.1-Fabric.jar",
+      "sha256": "6d2b80e4eb6c2ddf886bbbb51ed959dc4011d23dc1e5615f648820f4503ebc7e",
+      "required": true
+    },
+    {
+      "id": "pigpen",
+      "fileName": "pigpen-fabric-1.21.1-21.1.4.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/pigpen-fabric-1.21.1-21.1.4.jar",
+      "sha256": "a81036cb0a3841b431c7b4190fc96e64b5e0c9c524b6f7b066fb2954caa44677",
+      "required": true
+    },
+    {
+      "id": "platform",
+      "fileName": "platform-fabric-1.21.1-1.2.11.3.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/platform-fabric-1.21.1-1.2.11.3.jar",
+      "sha256": "388d6e7d9ed2c5a803cca56830bb6b9a0d8ee99cf17861f7e457c39e82fcc368",
+      "required": true
+    },
+    {
+      "id": "player",
+      "fileName": "player-animation-lib-fabric-2.0.3+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/player-animation-lib-fabric-2.0.3+1.21.1.jar",
+      "sha256": "492db91e72379fc826594d827e0f5a882899fa3c2cd362dfdb51cbae44f25d24",
+      "required": true
+    },
+    {
+      "id": "prickle",
+      "fileName": "prickle-fabric-1.21.1-21.1.11.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/prickle-fabric-1.21.1-21.1.11.jar",
+      "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f",
+      "required": true
+    },
+    {
+      "id": "PuzzlesLib",
+      "fileName": "PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar",
+      "sha256": "67e9b96383a76cb8f011562d67cbd408cca7d85cb199db61cec1704869414fe2",
+      "required": true
+    },
+    {
+      "id": "resourcefullib",
+      "fileName": "resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+      "required": true
+    },
+    {
+      "id": "runelic",
+      "fileName": "runelic-fabric-1.21.1-21.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/runelic-fabric-1.21.1-21.1.5.jar",
+      "sha256": "bea530405c484523bdd810f8b9852909525237e5c668aefb0b56a2715f89457f",
+      "required": true
+    },
+    {
+      "id": "Searchables",
+      "fileName": "Searchables-fabric-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "sha256": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76",
+      "required": true
+    },
+    {
+      "id": "simple",
+      "fileName": "simple-harvest-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/simple-harvest-1.0.0.jar",
+      "sha256": "679539a03b8f6baf4ba546c355c323bb0d1e953d29e4821119d6fdcf834a2cd0",
+      "required": true
+    },
+    {
+      "id": "sittingplus",
+      "fileName": "sittingplus-2.0.6-1.21.1-FABRIC.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/sittingplus-2.0.6-1.21.1-FABRIC.jar",
+      "sha256": "3ca0f06029d84a1d1b8cd984575c42d332a5b81ad7633554865e8f58508744dd",
+      "required": true
+    },
+    {
+      "id": "sodium",
+      "fileName": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "required": true
+    },
+    {
+      "id": "spark",
+      "fileName": "spark-1.10.109-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/spark-1.10.109-fabric.jar",
+      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+      "required": true
+    },
+    {
+      "id": "supplementaries",
+      "fileName": "supplementaries-1.21-3.5.14-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/supplementaries-1.21-3.5.14-fabric.jar",
+      "sha256": "b6419549d7303e65dc602ee03e73bee61d58b894024c2ef5728c9e5145c13b49",
+      "required": true
+    },
+    {
+      "id": "swingthrough",
+      "fileName": "swingthrough-1.0.6+1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/swingthrough-1.0.6+1.21.jar",
+      "sha256": "25e37292de0cf71f454d2002cf0c025c332e60c58eb0f3d63141c8200ac45d75",
+      "required": true
+    },
+    {
+      "id": "trowel",
+      "fileName": "trowel-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/trowel-1.4.0.jar",
+      "sha256": "efc1429870fde516aa10a8f91d677153fa11cc06da976662148082dd054c61c5",
+      "required": true
+    },
+    {
+      "id": "vanillabackport",
+      "fileName": "vanillabackport-fabric-1.21.1-1.1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/vanillabackport-fabric-1.21.1-1.1.5.1.jar",
+      "sha256": "a54f21b3e835e07cbe01512cab07a1b886681db4fbcdf7724f745b0ff251ae17",
+      "required": true
+    },
+    {
       "id": "voicechat",
       "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/voicechat-fabric-1.21.1-2.6.10.jar",
       "sha256": "12dade444565261606c3ba63785aff1aa84e20b807376f76b9aff9907e51567b",
+      "required": true
+    },
+    {
+      "id": "yet_another_config_lib_v3",
+      "fileName": "yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
+      "sha256": "413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336",
       "required": true
     }
   ]
