@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_22-05-38",
+  "packVersion": "2025-12-27_22-08-24",
   "mods": [
     {
       "id": "amendments",
@@ -105,6 +105,13 @@
       "fileName": "copperhopper-0.10.0+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/copperhopper-0.10.0+1.21.1.jar",
       "sha256": "b9d721b77e9fd0c538eb08c297637b89cc1471a2675b81def7ee5bcd3cb798cb",
+      "required": true
+    },
+    {
+      "id": "cupboard",
+      "fileName": "cupboard-fabric-1.21-2.9.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/cupboard-fabric-1.21-2.9.jar",
+      "sha256": "3a68c395d12e5313246d1576c9ca8815d4d8b4adedaf4236d7b8b4a48fdd82f7",
       "required": true
     },
     {
