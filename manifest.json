@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_22-23-23",
+  "packVersion": "2025-12-27_23-02-07",
   "mods": [
     {
       "id": "amendments",
@@ -28,6 +28,13 @@
       "fileName": "BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
       "sha256": "558613643f124ebe94efb3d5f2903f35738195208ac947abe1a149e3aab83570",
+      "required": true
+    },
+    {
+      "id": "bobby",
+      "fileName": "bobby-5.2.4+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bobby-5.2.4+mc1.21.jar",
+      "sha256": "abf66c25c5738f15528ed8a2787e9df4ce73cd84258fba5264fb049d9e591655",
       "required": true
     },
     {
@@ -73,6 +80,13 @@
       "required": true
     },
     {
+      "id": "Chunky",
+      "fileName": "Chunky-Fabric-1.4.23.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Chunky-Fabric-1.4.23.jar",
+      "sha256": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e",
+      "required": true
+    },
+    {
       "id": "citresewn",
       "fileName": "citresewn-1.2.2+1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/citresewn-1.2.2+1.21.jar",
@@ -115,6 +129,13 @@
       "required": true
     },
     {
+      "id": "cwb",
+      "fileName": "cwb-fabric-3.0.0+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/cwb-fabric-3.0.0+mc1.21.jar",
+      "sha256": "5a04b0616632f74ca2f0406d8b73bca8639b8f8f67836621d19502d7e5d660cc",
+      "required": true
+    },
+    {
       "id": "darkutils",
       "fileName": "darkutils-fabric-1.21.1-21.1.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/darkutils-fabric-1.21.1-21.1.1.jar",
@@ -122,17 +143,17 @@
       "required": true
     },
     {
-      "id": "DistantHorizons",
-      "fileName": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
-      "sha256": "288156d3c9032973b8571d258953181a7c152028e07a4ed7d065d5d6ae4e8bec",
-      "required": true
-    },
-    {
       "id": "dummmmmmy",
       "fileName": "dummmmmmy-1.21-2.0.11-fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/dummmmmmy-1.21-2.0.11-fabric.jar",
       "sha256": "b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c",
+      "required": true
+    },
+    {
+      "id": "dynamic",
+      "fileName": "dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
+      "sha256": "aa588e1c30378d5f39ff525f6dd1b9862f1a9189ea8f92e7b93bd4c2e0e339e7",
       "required": true
     },
     {
@@ -171,6 +192,13 @@
       "required": true
     },
     {
+      "id": "ferritecore",
+      "fileName": "ferritecore-7.0.2-hotfix-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ferritecore-7.0.2-hotfix-fabric.jar",
+      "sha256": "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa",
+      "required": true
+    },
+    {
       "id": "ForgeConfigAPIPort",
       "fileName": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
@@ -192,10 +220,10 @@
       "required": true
     },
     {
-      "id": "HoldMyItems1.21.1v4.0",
-      "fileName": "HoldMyItems1.21.1v4.0.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/HoldMyItems1.21.1v4.0.jar",
-      "sha256": "3a8aa9a460ba79af3e402ecf6b926a04fc1c13239fac5a1cb1b935e4b6b0db1e",
+      "id": "ImmediatelyFast",
+      "fileName": "ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+      "sha256": "edd3640ad522f44920cba831eb9735541a081f8bbf9e11a282c12c960f1f0727",
       "required": true
     },
     {
@@ -245,13 +273,6 @@
       "fileName": "JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
       "sha256": "98723709cede50f05988f5ce200f14385b358d0361a3bdd90bb946d6ae84e46e",
-      "required": true
-    },
-    {
-      "id": "legacy",
-      "fileName": "legacy-freecam-fabric-1.0.3+mc1.21.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/legacy-freecam-fabric-1.0.3+mc1.21.jar",
-      "sha256": "2d57b2095b8c76b1214a6a2d432af804a6b4d9577d187b235fc17c812fff16aa",
       "required": true
     },
     {
@@ -360,6 +381,13 @@
       "required": true
     },
     {
+      "id": "quickleafdecay",
+      "fileName": "quickleafdecay-mc1.21-0.2.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/quickleafdecay-mc1.21-0.2.5.jar",
+      "sha256": "d21b35ef09a002db637c8f6aed8bac2d321001174bc16423a7da2ee071443571",
+      "required": true
+    },
+    {
       "id": "resourcefullib",
       "fileName": "resourcefullib-fabric-1.21-3.0.12.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
@@ -406,6 +434,13 @@
       "fileName": "sittingplus-2.0.6-1.21.1-FABRIC.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/sittingplus-2.0.6-1.21.1-FABRIC.jar",
       "sha256": "3ca0f06029d84a1d1b8cd984575c42d332a5b81ad7633554865e8f58508744dd",
+      "required": true
+    },
+    {
+      "id": "skinlayers3d",
+      "fileName": "skinlayers3d-fabric-1.10.1-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/skinlayers3d-fabric-1.10.1-mc1.21.1.jar",
+      "sha256": "a960ebcfd83945617f42a2c2317cce14aaa1c8942cac9fb8dfde3f2b560227e6",
       "required": true
     },
     {
