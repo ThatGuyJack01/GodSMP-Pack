@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_23-31-02",
+  "packVersion": "2025-12-27_23-33-13",
   "mods": [
     {
       "id": "amendments",
@@ -511,6 +511,13 @@
       "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/voicechat-fabric-1.21.1-2.6.10.jar",
       "sha256": "12dade444565261606c3ba63785aff1aa84e20b807376f76b9aff9907e51567b",
+      "required": true
+    },
+    {
+      "id": "waitingscreen",
+      "fileName": "waitingscreen-1.0.0-Fabric-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/waitingscreen-1.0.0-Fabric-1.21.1.jar",
+      "sha256": "028a77ae82fac7b923dcb1bfbf59dc59955421fb38aea0595c58e9062fbdf69f",
       "required": true
     },
     {
