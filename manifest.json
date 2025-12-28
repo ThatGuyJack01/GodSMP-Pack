@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_23-04-56",
+  "packVersion": "2025-12-27_23-25-21",
   "mods": [
     {
       "id": "amendments",
@@ -350,6 +350,13 @@
       "fileName": "OverflowingBars-v21.1.1-1.21.1-Fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/OverflowingBars-v21.1.1-1.21.1-Fabric.jar",
       "sha256": "6d2b80e4eb6c2ddf886bbbb51ed959dc4011d23dc1e5615f648820f4503ebc7e",
+      "required": true
+    },
+    {
+      "id": "piggy",
+      "fileName": "piggy-inventory-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/piggy-inventory-1.0.0.jar",
+      "sha256": "4b680aeb930eab124e95c0cc0605f56d0ad88951d2a01934dc7abac1f0a0ac66",
       "required": true
     },
     {
