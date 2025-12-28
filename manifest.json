@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_22-08-24",
+  "packVersion": "2025-12-27_22-23-23",
   "mods": [
     {
       "id": "amendments",
@@ -256,9 +256,9 @@
     },
     {
       "id": "litematica",
-      "fileName": "litematica-fabric-1.21.1-0.19.50.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/litematica-fabric-1.21.1-0.19.50.jar",
-      "sha256": "eef831888e2a686e3c17b01c4da4d0c20a65816d94a9bf0f78567ebbe2741534",
+      "fileName": "litematica-fabric-1.21-0.19.59.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/litematica-fabric-1.21-0.19.59.jar",
+      "sha256": "47e0798dc0a3f1c6bb6f4377697553cb1d6b0e900a4a34a52ab7516863aba297",
       "required": true
     },
     {
@@ -270,9 +270,9 @@
     },
     {
       "id": "malilib",
-      "fileName": "malilib-fabric-1.21.1-0.21.0.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/malilib-fabric-1.21.1-0.21.0.jar",
-      "sha256": "9337bd686bc2815c2a5826ddb24ef28479cbffdea6efef242211036c25419f18",
+      "fileName": "malilib-fabric-1.21-0.21.10.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/malilib-fabric-1.21-0.21.10.jar",
+      "sha256": "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915",
       "required": true
     },
     {
