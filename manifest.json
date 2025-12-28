@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_21-46-20",
+  "packVersion": "2025-12-27_22-05-38",
   "mods": [
     {
       "id": "amendments",
@@ -14,6 +14,13 @@
       "fileName": "athena-fabric-1.21-4.0.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/athena-fabric-1.21-4.0.2.jar",
       "sha256": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb",
+      "required": true
+    },
+    {
+      "id": "better",
+      "fileName": "better-clouds-1.7.19+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/better-clouds-1.7.19+1.21.1-fabric.jar",
+      "sha256": "5560096fd0701f3f84ed4294b03a7aa6b8c28975034ee7e58741f8e0a67db28a",
       "required": true
     },
     {
@@ -38,6 +45,13 @@
       "required": true
     },
     {
+      "id": "capes",
+      "fileName": "capes-1.5.4+1.21-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/capes-1.5.4+1.21-fabric.jar",
+      "sha256": "ed7f2384319bd2e4804713a98d3bfd081c2f701f57db3629d3991dd22c138351",
+      "required": true
+    },
+    {
       "id": "carryon",
       "fileName": "carryon-fabric-1.21.1-2.2.2.11.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/carryon-fabric-1.21.1-2.2.2.11.jar",
@@ -45,10 +59,38 @@
       "required": true
     },
     {
+      "id": "chatanimation",
+      "fileName": "chatanimation-fabric-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chatanimation-fabric-1.21.1-1.1.3.jar",
+      "sha256": "da00076d807398065db2bf9483ed07d7034265735a1c7e20588394763ffc0026",
+      "required": true
+    },
+    {
       "id": "chipped",
       "fileName": "chipped-fabric-1.21.1-4.0.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chipped-fabric-1.21.1-4.0.2.jar",
       "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+      "required": true
+    },
+    {
+      "id": "citresewn",
+      "fileName": "citresewn-1.2.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/citresewn-1.2.2+1.21.jar",
+      "sha256": "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776",
+      "required": true
+    },
+    {
+      "id": "cloth",
+      "fileName": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/cloth-config-15.0.140-fabric.jar",
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "required": true
+    },
+    {
+      "id": "Clumps",
+      "fileName": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
       "required": true
     },
     {
@@ -84,6 +126,27 @@
       "fileName": "dummmmmmy-1.21-2.0.11-fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/dummmmmmy-1.21-2.0.11-fabric.jar",
       "sha256": "b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c",
+      "required": true
+    },
+    {
+      "id": "entity_model_features_1.21",
+      "fileName": "entity_model_features_1.21-fabric-3.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/entity_model_features_1.21-fabric-3.0.7.jar",
+      "sha256": "136e5ece2627ac7095778f520865e8027d4e68b14c9a2a25619d5b48a770d76d",
+      "required": true
+    },
+    {
+      "id": "entity_texture_features_1.21",
+      "fileName": "entity_texture_features_1.21-fabric-7.0.6.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/entity_texture_features_1.21-fabric-7.0.6.jar",
+      "sha256": "3674b28fa348a94f54f7c7145e9d3fcbc9adde96fc620c11840f6ed097785aa0",
+      "required": true
+    },
+    {
+      "id": "entityculling",
+      "fileName": "entityculling-fabric-1.9.4-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/entityculling-fabric-1.9.4-mc1.21.1.jar",
+      "sha256": "823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb",
       "required": true
     },
     {
@@ -150,6 +213,62 @@
       "required": true
     },
     {
+      "id": "Jade",
+      "fileName": "Jade-1.21.1-Fabric-15.10.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Jade-1.21.1-Fabric-15.10.2.jar",
+      "sha256": "51f57ee9f6eeffce9cbf9abe0c68c23105c6ffa7215a3b75240117799d897398",
+      "required": true
+    },
+    {
+      "id": "jei",
+      "fileName": "jei-1.21.1-fabric-19.21.2.313.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/jei-1.21.1-fabric-19.21.2.313.jar",
+      "sha256": "e07ee903abae89c182452d992d271da2213e9f3e82e68e554697d510235b69cc",
+      "required": true
+    },
+    {
+      "id": "JustEnoughProfessions",
+      "fileName": "JustEnoughProfessions-fabric-1.21.1-4.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/JustEnoughProfessions-fabric-1.21.1-4.0.4.jar",
+      "sha256": "3480e1924b167efd33342003a504c790c7cd4e1f2e23272d871292babe551290",
+      "required": true
+    },
+    {
+      "id": "JustEnoughResources",
+      "fileName": "JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/JustEnoughResources-Fabric-1.21.1-1.6.0.17.jar",
+      "sha256": "98723709cede50f05988f5ce200f14385b358d0361a3bdd90bb946d6ae84e46e",
+      "required": true
+    },
+    {
+      "id": "legacy",
+      "fileName": "legacy-freecam-fabric-1.0.3+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/legacy-freecam-fabric-1.0.3+mc1.21.jar",
+      "sha256": "2d57b2095b8c76b1214a6a2d432af804a6b4d9577d187b235fc17c812fff16aa",
+      "required": true
+    },
+    {
+      "id": "litematica",
+      "fileName": "litematica-fabric-1.21.1-0.19.50.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/litematica-fabric-1.21.1-0.19.50.jar",
+      "sha256": "eef831888e2a686e3c17b01c4da4d0c20a65816d94a9bf0f78567ebbe2741534",
+      "required": true
+    },
+    {
+      "id": "lithium",
+      "fileName": "lithium-fabric-0.15.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/lithium-fabric-0.15.1+mc1.21.1.jar",
+      "sha256": "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0",
+      "required": true
+    },
+    {
+      "id": "malilib",
+      "fileName": "malilib-fabric-1.21.1-0.21.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/malilib-fabric-1.21.1-0.21.0.jar",
+      "sha256": "9337bd686bc2815c2a5826ddb24ef28479cbffdea6efef242211036c25419f18",
+      "required": true
+    },
+    {
       "id": "mcw",
       "fileName": "mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
@@ -161,6 +280,13 @@
       "fileName": "mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
       "sha256": "a6243c53256ad7d0813ba9e1003ca8ed5480f5354efcea0c0e8e5cbcb0fa2267",
+      "required": true
+    },
+    {
+      "id": "midnightcontrols",
+      "fileName": "midnightcontrols-1.9.7+1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/midnightcontrols-1.9.7+1.21.jar",
+      "sha256": "063e0066cc33a3a1cd17bf2699aeae3bf5294526e28142157a1226dd66990cd6",
       "required": true
     },
     {
@@ -234,10 +360,24 @@
       "required": true
     },
     {
+      "id": "Resourcify(1.21.1",
+      "fileName": "Resourcify(1.21.1-fabric)-1.7.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Resourcify(1.21.1-fabric)-1.7.5.jar",
+      "sha256": "7a368b906d81f92ecf4d9173996647520162324eaf771263c1746016dcfd130f",
+      "required": true
+    },
+    {
       "id": "runelic",
       "fileName": "runelic-fabric-1.21.1-21.1.5.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/runelic-fabric-1.21.1-21.1.5.jar",
       "sha256": "bea530405c484523bdd810f8b9852909525237e5c668aefb0b56a2715f89457f",
+      "required": true
+    },
+    {
+      "id": "schematicpreview",
+      "fileName": "schematicpreview-0.0.14-1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/schematicpreview-0.0.14-1.21.jar",
+      "sha256": "9a1b1b4bd5847a81879711d474e04dfc42260d842477cd5001166fd9cc877861",
       "required": true
     },
     {
@@ -259,6 +399,13 @@
       "fileName": "sittingplus-2.0.6-1.21.1-FABRIC.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/sittingplus-2.0.6-1.21.1-FABRIC.jar",
       "sha256": "3ca0f06029d84a1d1b8cd984575c42d332a5b81ad7633554865e8f58508744dd",
+      "required": true
+    },
+    {
+      "id": "smoothchunk",
+      "fileName": "smoothchunk-fabric-1.21-4.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/smoothchunk-fabric-1.21-4.1.jar",
+      "sha256": "d2e4ebd40dc3805d2dd055019b253524ae216ad141818c198b5fabcc75013f40",
       "required": true
     },
     {
@@ -287,6 +434,13 @@
       "fileName": "swingthrough-1.0.6+1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/swingthrough-1.0.6+1.21.jar",
       "sha256": "25e37292de0cf71f454d2002cf0c025c332e60c58eb0f3d63141c8200ac45d75",
+      "required": true
+    },
+    {
+      "id": "talkbubbles",
+      "fileName": "talkbubbles-1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/talkbubbles-1.0.8.jar",
+      "sha256": "9366ab7206562b165786cca65cb7cd6843dd33c3e82734d841f6d0cec9616d79",
       "required": true
     },
     {
