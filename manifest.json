@@ -1,16 +1,16 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "test-1",
+  "packVersion": "2025-12-27_20-42-47",
   "mods": [
     {
-      "id": "fabric-api",
+      "id": "fabric",
       "fileName": "fabric-api-0.116.7+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-api-0.116.7+1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "required": true
     },
     {
-      "id": "simple-voicechat",
+      "id": "voicechat",
       "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/voicechat-fabric-1.21.1-2.6.10.jar",
       "sha256": "12dade444565261606c3ba63785aff1aa84e20b807376f76b9aff9907e51567b",
