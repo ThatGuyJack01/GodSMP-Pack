@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_21-34-31",
+  "packVersion": "2025-12-27_21-46-20",
   "mods": [
     {
       "id": "amendments",
@@ -122,9 +122,9 @@
       "required": true
     },
     {
-      "id": "Hold My Items 1.21.1 v4.0",
-      "fileName": "Hold My Items 1.21.1 v4.0.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Hold My Items 1.21.1 v4.0.jar",
+      "id": "HoldMyItems1.21.1v4.0",
+      "fileName": "HoldMyItems1.21.1v4.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/HoldMyItems1.21.1v4.0.jar",
       "sha256": "3a8aa9a460ba79af3e402ecf6b926a04fc1c13239fac5a1cb1b935e4b6b0db1e",
       "required": true
     },
