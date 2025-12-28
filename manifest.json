@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-27_23-02-07",
+  "packVersion": "2025-12-27_23-04-56",
   "mods": [
     {
       "id": "amendments",
@@ -315,6 +315,13 @@
       "fileName": "midnightcontrols-1.9.7+1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/midnightcontrols-1.9.7+1.21.jar",
       "sha256": "063e0066cc33a3a1cd17bf2699aeae3bf5294526e28142157a1226dd66990cd6",
+      "required": true
+    },
+    {
+      "id": "modmenu",
+      "fileName": "modmenu-11.0.3.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/modmenu-11.0.3.jar",
+      "sha256": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
       "required": true
     },
     {
