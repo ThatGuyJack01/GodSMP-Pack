@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2025-12-28_00-12-49",
+  "packVersion": "2025-12-28_20-05-04",
   "mods": [
     {
       "id": "amendments",
@@ -319,9 +319,9 @@
     },
     {
       "id": "moonlight",
-      "fileName": "moonlight-1.21-2.29.2-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/moonlight-1.21-2.29.2-fabric.jar",
-      "sha256": "31af9feb8f8ce05effe1ae7b2804ede6aeb86d42d21e3ca925b2423926c9046b",
+      "fileName": "moonlight-1.21-2.29.3-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/moonlight-1.21-2.29.3-fabric.jar",
+      "sha256": "58e44913f41d30767e38f4692f8c97ffa0ebdd4182e08642b30fdeb7b6e49d4c",
       "required": true
     },
     {
@@ -361,9 +361,9 @@
     },
     {
       "id": "player",
-      "fileName": "player-animation-lib-fabric-2.0.3+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/player-animation-lib-fabric-2.0.3+1.21.1.jar",
-      "sha256": "492db91e72379fc826594d827e0f5a882899fa3c2cd362dfdb51cbae44f25d24",
+      "fileName": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "sha256": "86ef8a23a5bc8f86d67ed37f3a93380d3946bad64123b22862ed057e7b624efd",
       "required": true
     },
     {
@@ -466,9 +466,9 @@
     },
     {
       "id": "supplementaries",
-      "fileName": "supplementaries-1.21-3.5.14-fabric.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/supplementaries-1.21-3.5.14-fabric.jar",
-      "sha256": "b6419549d7303e65dc602ee03e73bee61d58b894024c2ef5728c9e5145c13b49",
+      "fileName": "supplementaries-1.21-3.5.16-fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/supplementaries-1.21-3.5.16-fabric.jar",
+      "sha256": "39a7091d7c4a8870bb75fcb08814307fb387557403c5456b34eea5a86fe5b941",
       "required": true
     },
     {
