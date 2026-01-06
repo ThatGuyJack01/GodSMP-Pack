@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-05_23-04-32",
+  "packVersion": "2026-01-05_23-06-59",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -49,13 +49,6 @@
       "fileName": "better-clouds-1.7.19+1.21.1-fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/better-clouds-1.7.19+1.21.1-fabric.jar",
       "sha256": "5560096fd0701f3f84ed4294b03a7aa6b8c28975034ee7e58741f8e0a67db28a",
-      "required": true
-    },
-    {
-      "id": "BetterCompatibilityChecker",
-      "fileName": "BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar",
-      "sha256": "558613643f124ebe94efb3d5f2903f35738195208ac947abe1a149e3aab83570",
       "required": true
     },
     {
