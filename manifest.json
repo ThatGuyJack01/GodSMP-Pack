@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-05_22-57-14",
+  "packVersion": "2026-01-05_23-02-14",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -479,9 +479,9 @@
       "required": true
     },
     {
-      "id": "ItemsDisplayed ",
-      "fileName": "ItemsDisplayed - v1.3-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ItemsDisplayed - v1.3-1.21.1.jar",
+      "id": "ItemsDisplayed",
+      "fileName": "ItemsDisplayed-v1.3-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ItemsDisplayed-v1.3-1.21.1.jar",
       "sha256": "7cd3156c31d7d97dab0b359b9bd41c15b1484ea3631c198893bd88ee4a380564",
       "required": true
     },
