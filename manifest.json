@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-05_23-06-59",
+  "packVersion": "2026-01-06_01-26-50",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -966,13 +966,6 @@
       "fileName": "void-block-fabric-1.21.1-1.1.0.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/void-block-fabric-1.21.1-1.1.0.jar",
       "sha256": "c4cc255798e57413bca4c5d433d73294abd7afee7a0fae365f3d38543b01d182",
-      "required": true
-    },
-    {
-      "id": "wardentools",
-      "fileName": "wardentools-fabric-1.21.1-4.1.0.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/wardentools-fabric-1.21.1-4.1.0.jar",
-      "sha256": "92921d06fc20c960ae516570263ad20464116e99a2dcc6cfd056a88c4b897ed2",
       "required": true
     },
     {
