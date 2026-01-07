@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-06_01-26-50",
+  "packVersion": "2026-01-07_16-18-02",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -714,6 +714,13 @@
       "fileName": "quickleafdecay-mc1.21-0.2.5.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/quickleafdecay-mc1.21-0.2.5.jar",
       "sha256": "d21b35ef09a002db637c8f6aed8bac2d321001174bc16423a7da2ee071443571",
+      "required": true
+    },
+    {
+      "id": "ReFramed",
+      "fileName": "ReFramed-1.6.6.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ReFramed-1.6.6.jar",
+      "sha256": "cbdde4d96ff36f3ee01f564f859e918d3287bb66c08c8a1781be2229d1a4d52d",
       "required": true
     },
     {
