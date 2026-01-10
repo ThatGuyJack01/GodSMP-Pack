@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-07_16-18-02",
+  "packVersion": "2026-01-10_02-11-03",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -644,6 +644,13 @@
       "fileName": "owo-lib-0.12.15.4+1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/owo-lib-0.12.15.4+1.21.jar",
       "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+      "required": true
+    },
+    {
+      "id": "particle",
+      "fileName": "particle-rain-3.0.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/particle-rain-3.0.5.jar",
+      "sha256": "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851",
       "required": true
     },
     {
