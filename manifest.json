@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-10_02-11-03",
+  "packVersion": "2026-01-10_03-36-30",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -577,6 +577,13 @@
       "required": true
     },
     {
+      "id": "monolib",
+      "fileName": "monolib-fabric-1.21.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/monolib-fabric-1.21.1-2.1.0.jar",
+      "sha256": "bb3ef8b22386952a38cdecac57073605dd2e7f2f59a8352a3a5d1b5e6c10bec2",
+      "required": true
+    },
+    {
       "id": "moonlight",
       "fileName": "moonlight-1.21-2.29.3-fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/moonlight-1.21-2.29.3-fabric.jar",
@@ -833,6 +840,13 @@
       "fileName": "spawnersplus-5.1-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/spawnersplus-5.1-1.21.1.jar",
       "sha256": "0247dd8527351f6cf4d0680d9443678aab4ff137a9e810fee6ae59185a0647a6",
+      "required": true
+    },
+    {
+      "id": "stackable_stew_and_soup",
+      "fileName": "stackable_stew_and_soup-merged-1.21.1-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/stackable_stew_and_soup-merged-1.21.1-2.0.1.jar",
+      "sha256": "069683404e5c7bf438ea8f0db42b2b4baf1fd1f42e2d114b5d4af80ed8ad1fa7",
       "required": true
     },
     {
