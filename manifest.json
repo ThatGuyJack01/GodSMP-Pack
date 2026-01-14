@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-10_03-36-30",
+  "packVersion": "2026-01-13_19-45-56",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -329,13 +329,6 @@
       "fileName": "fabric-api-0.116.7+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-api-0.116.7+1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
-      "required": true
-    },
-    {
-      "id": "fabric",
-      "fileName": "fabric-carpet-1.21-1.4.147+v240613.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-carpet-1.21-1.4.147+v240613.jar",
-      "sha256": "079fc8a4e073eb24b010ffcc588e59f93b984143e17d8ef19fbb0b6aff0f19d9",
       "required": true
     },
     {
