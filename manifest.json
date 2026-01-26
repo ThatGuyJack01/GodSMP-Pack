@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-18_22-02-22",
+  "packVersion": "2026-01-26_02-34-09",
   "mods": [
     {
       "id": "advancements_reloaded",
@@ -392,6 +392,13 @@
       "fileName": "fullbrightnesstoggle-1.21.1-4.4.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fullbrightnesstoggle-1.21.1-4.4.jar",
       "sha256": "395ae5d07cb993f54c573d5ce87e13a2c1ae0b96db1b4b56bc395b690c25f07f",
+      "required": true
+    },
+    {
+      "id": "fusion",
+      "fileName": "fusion-1.2.12-fabric-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fusion-1.2.12-fabric-mc1.21.jar",
+      "sha256": "904b53bd8e0aacf200c700997c7467bc0c66cca1fb4a17c9999afb8eb62942e8",
       "required": true
     },
     {
