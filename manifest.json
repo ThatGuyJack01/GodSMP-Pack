@@ -1,7 +1,14 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-01-26_02-34-09",
+  "packVersion": "2026-04-26_00-11-52",
   "mods": [
+    {
+      "id": "additionalredstone",
+      "fileName": "additionalredstone-fabric-1.21.1-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/additionalredstone-fabric-1.21.1-1.2.3.jar",
+      "sha256": "919a4761f0b3a3983912850b1738e61fd2112cc70eff1a6bfa48b5531d39bb0d",
+      "required": true
+    },
     {
       "id": "advancements_reloaded",
       "fileName": "advancements_reloaded-0.6.1-fabric-1.21.1.jar",
@@ -28,6 +35,13 @@
       "fileName": "athena-fabric-1.21-4.0.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/athena-fabric-1.21-4.0.2.jar",
       "sha256": "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb",
+      "required": true
+    },
+    {
+      "id": "auto",
+      "fileName": "auto-workstations-[MC1.21.1]-1.0-rc.27.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/auto-workstations-[MC1.21.1]-1.0-rc.27.jar",
+      "sha256": "e650eaac723f7a951fb8fe24e3d6df1dbe11280665746388194c1fd57fed12e5",
       "required": true
     },
     {
@@ -73,6 +87,27 @@
       "required": true
     },
     {
+      "id": "buildstonetoolkit",
+      "fileName": "buildstonetoolkit-fabric-1.21.1-1.2.8 (1).jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/buildstonetoolkit-fabric-1.21.1-1.2.8 (1).jar",
+      "sha256": "419b33b3ad674d5e2a4acc7a59fb83c699f71c76340efcac5728830df33c2791",
+      "required": true
+    },
+    {
+      "id": "buildstonetoolkit",
+      "fileName": "buildstonetoolkit-fabric-1.21.1-1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/buildstonetoolkit-fabric-1.21.1-1.2.8.jar",
+      "sha256": "419b33b3ad674d5e2a4acc7a59fb83c699f71c76340efcac5728830df33c2791",
+      "required": true
+    },
+    {
+      "id": "cabletiers",
+      "fileName": "cabletiers-fabric-1.21.1-0.6.11.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/cabletiers-fabric-1.21.1-0.6.11.jar",
+      "sha256": "751cf7a073d972dee95d908771cb31827a21bee9022d31c02479a16525bc2076",
+      "required": true
+    },
+    {
       "id": "calcmod",
       "fileName": "calcmod-1.3.2+fabric.1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/calcmod-1.3.2+fabric.1.21.jar",
@@ -94,6 +129,13 @@
       "required": true
     },
     {
+      "id": "cc",
+      "fileName": "cc-tweaked-1.21.1-fabric-1.117.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/cc-tweaked-1.21.1-fabric-1.117.1.jar",
+      "sha256": "67e09f204b98a69c885c87b1181ec14216ca44c4872a03a0c5f731e00168bbb5",
+      "required": true
+    },
+    {
       "id": "chatanimation",
       "fileName": "chatanimation-fabric-1.21.1-1.1.3.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chatanimation-fabric-1.21.1-1.1.3.jar",
@@ -105,6 +147,13 @@
       "fileName": "chipped-fabric-1.21.1-4.0.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chipped-fabric-1.21.1-4.0.2.jar",
       "sha256": "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79",
+      "required": true
+    },
+    {
+      "id": "chunk",
+      "fileName": "chunk-loader-v3.0.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/chunk-loader-v3.0.2.jar",
+      "sha256": "64f29affc16b0f3c81cb7b373d5b2f6b28c9123f21b70f263c0329f4b05712e5",
       "required": true
     },
     {
@@ -325,6 +374,13 @@
       "required": true
     },
     {
+      "id": "exposure_polaroid",
+      "fileName": "exposure_polaroid-fabric-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/exposure_polaroid-fabric-1.21.1-1.1.3.jar",
+      "sha256": "891c40567bb567f42911ad2c690d6ab3913bb68443cd6beba6d8113ae6018492",
+      "required": true
+    },
+    {
       "id": "fabric",
       "fileName": "fabric-api-0.116.7+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/fabric-api-0.116.7+1.21.1.jar",
@@ -350,6 +406,13 @@
       "fileName": "figura-0.1.5+1.21.1-fabric-mc.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/figura-0.1.5+1.21.1-fabric-mc.jar",
       "sha256": "6b83fdee8e9439a4f735139f250ceda0a0a224f15c4ed127cc5b406c9926f665",
+      "required": true
+    },
+    {
+      "id": "figurav5addon",
+      "fileName": "figurav5addon-fabric-1.2.2+split1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/figurav5addon-fabric-1.2.2+split1.jar",
+      "sha256": "5dc4bc8b332f031c6e903eb132c9a75684fb92c6695a1a2c4cfdb1a3f4f73469",
       "required": true
     },
     {
@@ -437,6 +500,13 @@
       "required": true
     },
     {
+      "id": "hauntfurnace",
+      "fileName": "hauntfurnace-fabric-0.5.8-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/hauntfurnace-fabric-0.5.8-1.21.1.jar",
+      "sha256": "1d846459bf7ba78fd5b1f8ab31ff339d23e156cbb271abf6feef63026e8d83dc",
+      "required": true
+    },
+    {
       "id": "hideexperimentalwarning",
       "fileName": "hideexperimentalwarning-1.21.1-1.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/hideexperimentalwarning-1.21.1-1.2.jar",
@@ -462,6 +532,13 @@
       "fileName": "improvedsigns-1.4.2.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/improvedsigns-1.4.2.jar",
       "sha256": "168f4fb1241149087eeea1c1945d89aa84f119cd232092d808208d8e6098a284",
+      "required": true
+    },
+    {
+      "id": "interdimensionalwirelesstransmitter",
+      "fileName": "interdimensionalwirelesstransmitter-fabric-1.21.1-0.1.5.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/interdimensionalwirelesstransmitter-fabric-1.21.1-0.1.5.jar",
+      "sha256": "0f195e89d310727e91016ff9ce2093b9c08bcf3dac40c8716e9f8d4c31682c4f",
       "required": true
     },
     {
@@ -511,6 +588,13 @@
       "fileName": "LinkedChests-v21.1.0-1.21.1-Fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/LinkedChests-v21.1.0-1.21.1-Fabric.jar",
       "sha256": "e876a681b07a95e272d99cb332ed9f40d71894dd3b211e2b329e87abd7645bfc",
+      "required": true
+    },
+    {
+      "id": "litematic",
+      "fileName": "litematic-downloader-1.1.0-beta.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/litematic-downloader-1.1.0-beta.jar",
+      "sha256": "3f2cfd652bb11b062349d1baa115e473d79fd556bc548cf8b67892af2b7d5d04",
       "required": true
     },
     {
@@ -570,6 +654,13 @@
       "required": true
     },
     {
+      "id": "minihud",
+      "fileName": "minihud-fabric-1.21-0.32.60.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/minihud-fabric-1.21-0.32.60.jar",
+      "sha256": "3326db5c049a7347601b18ab5e9bbd16c399c8e158d76da97b0e19398388998b",
+      "required": true
+    },
+    {
       "id": "modmenu",
       "fileName": "modmenu-11.0.3.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/modmenu-11.0.3.jar",
@@ -588,6 +679,13 @@
       "fileName": "moonlight-1.21-2.29.3-fabric.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/moonlight-1.21-2.29.3-fabric.jar",
       "sha256": "58e44913f41d30767e38f4692f8c97ffa0ebdd4182e08642b30fdeb7b6e49d4c",
+      "required": true
+    },
+    {
+      "id": "multi",
+      "fileName": "multi-key-bindings-1.2.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/multi-key-bindings-1.2.1+1.21.1.jar",
+      "sha256": "b03e25e479525f50e6637b4bb8ad46aacd99e53b3027ac4eaa35e0c3db9b2841",
       "required": true
     },
     {
@@ -633,6 +731,13 @@
       "required": true
     },
     {
+      "id": "OctoLib",
+      "fileName": "OctoLib-FABRIC-0.6.1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/OctoLib-FABRIC-0.6.1+1.21.jar",
+      "sha256": "fd79df74a30c288012bbac26faa2bb0eefc32ac5e11bbb48da322dc5d0217ca8",
+      "required": true
+    },
+    {
       "id": "oracle_index",
       "fileName": "oracle_index-fabric-0.5.0.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/oracle_index-fabric-0.5.0.jar",
@@ -658,6 +763,13 @@
       "fileName": "particle-rain-3.0.5.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/particle-rain-3.0.5.jar",
       "sha256": "4cc0ff16a6782ec4630ec4145b1999e86af58db1c253f75effb75e7d2569d851",
+      "required": true
+    },
+    {
+      "id": "Perception",
+      "fileName": "Perception-FABRIC-0.2.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/Perception-FABRIC-0.2.1+1.21.1.jar",
+      "sha256": "4d252c5b511ef348f5df302e2f9bd05e96b74005775a07def1815ed9a0b20835",
       "required": true
     },
     {
@@ -731,6 +843,20 @@
       "required": true
     },
     {
+      "id": "refinedstorage",
+      "fileName": "refinedstorage-fabric-2.0.4.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/refinedstorage-fabric-2.0.4.jar",
+      "sha256": "3176043e7892b67009b52b230f8d056d9b5189d9c3f7934ee65b30a7db1e34f6",
+      "required": true
+    },
+    {
+      "id": "refinedstorage",
+      "fileName": "refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+      "sha256": "0e52b7e9defb811d796531d862465d33716e5869836605c8a64a8e9f0d776a5d",
+      "required": true
+    },
+    {
       "id": "ReFramed",
       "fileName": "ReFramed-1.6.6.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/ReFramed-1.6.6.jar",
@@ -773,6 +899,13 @@
       "required": true
     },
     {
+      "id": "scholar",
+      "fileName": "scholar-fabric-1.21.1-1.1.13.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/scholar-fabric-1.21.1-1.1.13.jar",
+      "sha256": "ba11369807b5f69ead0e65e0837c145949f7943f340349721eaf531299bfd746",
+      "required": true
+    },
+    {
       "id": "screenshot_viewer",
       "fileName": "screenshot_viewer-1.3.3-fabric-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/screenshot_viewer-1.3.3-fabric-mc1.21.jar",
@@ -787,10 +920,24 @@
       "required": true
     },
     {
+      "id": "short_circuit",
+      "fileName": "short_circuit-fabric-1.21.1-1.0.9.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/short_circuit-fabric-1.21.1-1.0.9.jar",
+      "sha256": "3afde04f52b943543d5de7a5cf11a399b872f0297bc55cb536d0b614cb0371de",
+      "required": true
+    },
+    {
       "id": "show",
       "fileName": "show-me-your-skin-1.11.3+1.21.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/show-me-your-skin-1.11.3+1.21.jar",
       "sha256": "eae03bc5d240c47440c01867fa3b7cd8917f6c264a75b860b6541473e399820b",
+      "required": true
+    },
+    {
+      "id": "shulkerboxtooltip",
+      "fileName": "shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+      "sha256": "5f9235d61d8c6e226e7caf21c2ca1b900964a7c79f713d153fb1f5e76c9051c4",
       "required": true
     },
     {
@@ -913,10 +1060,24 @@
       "required": true
     },
     {
+      "id": "tesseract",
+      "fileName": "tesseract-1.0.38-fabric-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/tesseract-1.0.38-fabric-mc1.21.jar",
+      "sha256": "e459d080589e71fa8e3a111872d6d5300822b848634d49b69744f757372704e0",
+      "required": true
+    },
+    {
       "id": "TheSplashMilk",
       "fileName": "TheSplashMilk-fabric-3.0.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/TheSplashMilk-fabric-3.0.1.jar",
       "sha256": "8cd0e1545f960812b1e5bb661f20d890d1b6fa911b3cc56c8e319ea68b0bcc3d",
+      "required": true
+    },
+    {
+      "id": "toms_peripherals_fabric",
+      "fileName": "toms_peripherals_fabric-1.21-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/toms_peripherals_fabric-1.21-1.2.2.jar",
+      "sha256": "4b1af0d50f77b69ba7dec5e828f7b3ad9fd5a9be5593be64523d5514b1fa664c",
       "required": true
     },
     {
@@ -962,6 +1123,13 @@
       "required": true
     },
     {
+      "id": "universalgrid",
+      "fileName": "universalgrid-fabric-1.21.1-0.3.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/universalgrid-fabric-1.21.1-0.3.1.jar",
+      "sha256": "40b7e1932fae22306a9e2ffbe84af5933f0476c79cf832198e8737584727a816",
+      "required": true
+    },
+    {
       "id": "vanillabackport",
       "fileName": "vanillabackport-fabric-1.21.1-1.1.5.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/vanillabackport-fabric-1.21.1-1.1.5.1.jar",
@@ -1001,6 +1169,13 @@
       "fileName": "worldedit-mod-7.3.8.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/worldedit-mod-7.3.8.jar",
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "required": true
+    },
+    {
+      "id": "wormhole",
+      "fileName": "wormhole-1.1.16-fabric-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/wormhole-1.1.16-fabric-mc1.21.jar",
+      "sha256": "ca95ad6809ce0a31b1358981c4612e8c69b4b3acfde58d234123947e20c17564",
       "required": true
     },
     {
