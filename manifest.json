@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-04-26_00-24-30",
+  "packVersion": "2026-04-26_00-31-26",
   "mods": [
     {
       "id": "additionalredstone",
@@ -84,13 +84,6 @@
       "fileName": "bookshelf-fabric-1.21.1-21.1.80.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/bookshelf-fabric-1.21.1-21.1.80.jar",
       "sha256": "7525f64eb5584b149e499eadcbb8e584d462ce992e72d31cb535af7aaf0931f4",
-      "required": true
-    },
-    {
-      "id": "buildstonetoolkit",
-      "fileName": "buildstonetoolkit-fabric-1.21.1-1.2.8 (1).jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/buildstonetoolkit-fabric-1.21.1-1.2.8 (1).jar",
-      "sha256": "419b33b3ad674d5e2a4acc7a59fb83c699f71c76340efcac5728830df33c2791",
       "required": true
     },
     {
