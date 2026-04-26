@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-04-26_00-11-52",
+  "packVersion": "2026-04-26_00-24-02",
   "mods": [
     {
       "id": "additionalredstone",
@@ -39,8 +39,8 @@
     },
     {
       "id": "auto",
-      "fileName": "auto-workstations-[MC1.21.1]-1.0-rc.27.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/auto-workstations-[MC1.21.1]-1.0-rc.27.jar",
+      "fileName": "auto-workstations-MC1.21.1-1.0-rc.27.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/auto-workstations-MC1.21.1-1.0-rc.27.jar",
       "sha256": "e650eaac723f7a951fb8fe24e3d6df1dbe11280665746388194c1fd57fed12e5",
       "required": true
     },
