@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-04-26_00-31-26",
+  "packVersion": "2026-04-28_23-08-55",
   "mods": [
     {
       "id": "additionalredstone",
@@ -322,6 +322,13 @@
       "fileName": "elytratrims-fabric-3.9.3+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/elytratrims-fabric-3.9.3+1.21.1.jar",
       "sha256": "7141a7de139c15b46242ba1db8d030fbcad9b534046e2fd5eab882d6f74c8849",
+      "required": true
+    },
+    {
+      "id": "emi",
+      "fileName": "emi-1.1.22+1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/emi-1.1.22+1.21.1+fabric.jar",
+      "sha256": "6da00a8d13cad6e55abaa3032d80ff4d1d1520146b683f1ca7c029e01718fe05",
       "required": true
     },
     {
@@ -735,6 +742,13 @@
       "fileName": "oracle_index-fabric-0.5.0.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/oracle_index-fabric-0.5.0.jar",
       "sha256": "80293c960258059aa9c3694f7251340462642dd1866cb1a0c510fc22634a5811",
+      "required": true
+    },
+    {
+      "id": "oritech",
+      "fileName": "oritech-fabric-1.21.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/oritech-fabric-1.21.1-1.0.1.jar",
+      "sha256": "e767a65972a6df5f96fabd75dd5ebc3b3498f63844d52eb361b6490daa17fcdf",
       "required": true
     },
     {
@@ -1155,6 +1169,13 @@
       "fileName": "void-block-fabric-1.21.1-1.1.0.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/void-block-fabric-1.21.1-1.1.0.jar",
       "sha256": "c4cc255798e57413bca4c5d433d73294abd7afee7a0fae365f3d38543b01d182",
+      "required": true
+    },
+    {
+      "id": "wirelesschargers",
+      "fileName": "wirelesschargers-1.0.9a-fabric-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/wirelesschargers-1.0.9a-fabric-mc1.21.jar",
+      "sha256": "6df86922e5d385cdcde0e665ffe1cd818ad4b3a107fd07e950ee6a7928225095",
       "required": true
     },
     {
