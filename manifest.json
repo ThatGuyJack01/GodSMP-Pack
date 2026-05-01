@@ -1,6 +1,6 @@
 {
   "packId": "godsmp-pack",
-  "packVersion": "2026-04-28_23-08-55",
+  "packVersion": "2026-04-30_20-40-25",
   "mods": [
     {
       "id": "additionalredstone",
@@ -742,13 +742,6 @@
       "fileName": "oracle_index-fabric-0.5.0.jar",
       "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/oracle_index-fabric-0.5.0.jar",
       "sha256": "80293c960258059aa9c3694f7251340462642dd1866cb1a0c510fc22634a5811",
-      "required": true
-    },
-    {
-      "id": "oritech",
-      "fileName": "oritech-fabric-1.21.1-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/ThatGuyJack01/GodSMP-Pack/main/mods/oritech-fabric-1.21.1-1.0.1.jar",
-      "sha256": "e767a65972a6df5f96fabd75dd5ebc3b3498f63844d52eb361b6490daa17fcdf",
       "required": true
     },
     {
